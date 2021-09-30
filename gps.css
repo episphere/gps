@@ -29,3 +29,9 @@ button {
 p {
   margin-bottom: 1em;
 }
+
+code {
+  color:darkgreen;
+  font-family:var(--family);
+  font-style: italic;
+}
