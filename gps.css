@@ -27,7 +27,8 @@ button {
 }
 
 p {
-  margin-bottom: 1em;
+  margin-bottom: 1.5em;
+  line-height: 1.4em;
 }
 
 code {
