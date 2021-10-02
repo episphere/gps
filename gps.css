@@ -5,7 +5,7 @@
 
 body {
     font-family:var(--family);
-    margin:3em;
+    margin:2.5em;
     color:var(--color)
 }
 
@@ -35,4 +35,10 @@ code {
   color:darkgreen;
   font-family:var(--family);
   font-style: italic;
+}
+
+button {
+  border-radius: 10px;
+  font-size:medium
+
 }
