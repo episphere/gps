@@ -32,6 +32,7 @@ a:hover {
 
 .link:hover {
     background-color:yellow;
+    cursor:pointer;
 }
 
 p {
