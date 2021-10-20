@@ -30,6 +30,10 @@ a:hover {
     background-color:yellow;
 }
 
+.link:hover {
+    background-color:yellow;
+}
+
 p {
   margin-bottom: 1.5em;
   line-height: 1.4em;
