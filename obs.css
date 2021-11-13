@@ -41,8 +41,8 @@ p {
 
 code {
   color:darkgreen;
+  background-color:#f1dfdf;
   font-family:var(--family);
-  font-style: italic;
 }
 
 button {
