@@ -51,3 +51,8 @@ button {
   font-size:medium;
   color:blue;
 }
+
+button:hover {
+   background-color:yellow;
+   cursor:pointer;
+}
