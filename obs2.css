@@ -1,0 +1,46 @@
+:root {
+    --color:navy;
+    --family:Verdana;
+}
+
+body {
+    font-family:var(--family);
+    color:var(--color)
+}
+
+h1 {
+    color:maroon
+}
+
+h2 {
+    color:brown
+}
+
+h3 {
+    color:darkgreen
+}
+
+a {
+    color:blue
+}
+
+a:hover {
+    color:green;
+    background-color:yellow;
+}
+
+.link:hover {
+    background-color:yellow;
+    cursor:pointer;
+}
+
+p {
+  margin-bottom: 1em;
+  line-height: 1.4em;
+}
+
+button {
+  border-radius: 10px;
+  font-size:medium;
+  color:blue;
+}
